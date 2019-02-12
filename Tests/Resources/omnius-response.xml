@@ -1,0 +1,1657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+   <Metadata>
+      <Creator>omnius</Creator>
+      <Created>2018-09-14T08:42:32Z</Created>
+      <LastChange>2018-10-31T12:26:57Z</LastChange>
+      <Process started="2019-02-04T21:37:03Z" time="56" tool="prhlt_htr_decode" />
+   </Metadata>
+   <Page imageFilename="image_0.jpg" imageHeight="2400" imageWidth="1697">
+      <TextRegion id="r1">
+         <Property key="entity" value="vermittler" />
+         <Coords points="188.66,434.943 1597.94,443.948 1597.52,500.276 188.236,491.27" />
+         <TextLine id="r1_l1">
+            <Property key="entity" value="bereits_versichert" />
+            <Coords points="217.964,448.182 248.735,448.379 248.487,481.351 217.717,481.154" />
+            <Word id="r1_l1_w1">
+               <Coords points="218,443 224,443 224,485 218,485" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999986">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r1_l2">
+            <Property key="entity" value="versicherungsnummer" />
+            <Coords points="437.511,442.715 951.716,446.001 951.345,495.46 437.139,492.174" />
+            <Word id="r1_l2_w1">
+               <Coords points="448,435 914,435 914,500 448,500" />
+               <TextEquiv conf="1">
+                  <Unicode>0113113129173121-149</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.974826">
+               <Unicode>0113113129173121-149</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r1_l3">
+            <Property key="entity" value="vermittler_nummer" />
+            <Coords points="1169.86,445.335 1570.56,447.895 1570.19,496.667 1169.49,494.106" />
+            <Word id="r1_l3_w1">
+               <Coords points="1164,437 1541,437 1541,502 1164,502" />
+               <TextEquiv conf="0.999845">
+                  <Unicode>l117210/1111-13313</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.978318">
+               <Unicode>l117210/1111-13313</Unicode>
+            </TextEquiv>
+         </TextLine>
+      </TextRegion>
+      <TextRegion id="r2">
+         <Property key="entity" value="versicherungsnehmer" />
+         <Coords points="186.154,495.379 1598.85,504.406 1595.52,947.473 182.825,938.445" />
+         <TextLine id="r2_l1">
+            <Property key="entity" value="frau" />
+            <Coords points="357.418,545.247 388.188,545.444 387.925,580.477 357.154,580.28" />
+            <Word id="r2_l1_w1">
+               <Coords points="367,540 372,540 372,579 367,579" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;checked/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999929">
+               <Unicode>&lt;checked/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r2_l2">
+            <Property key="entity" value="herr" />
+            <Coords points="513.325,545.557 546.831,545.771 546.562,581.491 513.057,581.277" />
+            <Word id="r2_l2_w1">
+               <Coords points="514,538 520,538 520,585 514,585" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999958">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r2_l3">
+            <Property key="entity" value="vorname" />
+            <Coords points="362.614,581.689 1561.97,589.353 1561.68,627.821 362.325,620.157" />
+            <Word id="r2_l3_w1">
+               <Coords points="371,575 1519,575 1519,626 371,626" />
+               <TextEquiv conf="0.229676">
+                  <Unicode>eMMAl1771177171771611711</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.865995">
+               <Unicode>eMMAl1771177171771611711</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r2_l4">
+            <Property key="entity" value="nachname" />
+            <Coords points="362.31,622.218 1563.03,629.891 1562.77,664.924 362.047,657.251" />
+            <Word id="r2_l4_w1">
+               <Coords points="412,622 1528,622 1528,664 412,664" />
+               <TextEquiv conf="0.673746">
+                  <Unicode>0174MAl1111111117111116261777</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.891895">
+               <Unicode>0174MAl1111111117111116261777</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r2_l5">
+            <Property key="entity" value="strasse" />
+            <Coords points="363.409,657.947 1291.99,663.88 1291.7,702.348 363.12,696.414" />
+            <Word id="r2_l5_w1">
+               <Coords points="365,654 576,654 576,700 365,700" />
+               <TextEquiv conf="0.999736">
+                  <Unicode>W01K/040</Unicode>
+               </TextEquiv>
+            </Word>
+            <Word id="r2_l5_w2">
+               <Coords points="629,656 1253,656 1253,703 629,703" />
+               <TextEquiv conf="0.999999">
+                  <Unicode>17781515711111171111</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.929492">
+               <Unicode>W01K/040 17781515711111171111</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r2_l6">
+            <Property key="entity" value="hausnummer" />
+            <Coords points="1408.91,664.628 1562.77,665.611 1562.48,704.079 1408.63,703.095" />
+            <Word id="r2_l6_w1">
+               <Coords points="1421,663 1523,663 1523,705 1421,705" />
+               <TextEquiv conf="1">
+                  <Unicode>3/0/21</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.996408">
+               <Unicode>3/0/21</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r2_l7">
+            <Property key="entity" value="plz" />
+            <Coords points="363.12,696.414 555.947,697.646 555.632,739.549 362.805,738.317" />
+            <Word id="r2_l7_w1">
+               <Coords points="370,695 547,695 547,740 370,740" />
+               <TextEquiv conf="1">
+                  <Unicode>0144/1186</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.985916">
+               <Unicode>0144/1186</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r2_l8">
+            <Property key="entity" value="wohnort" />
+            <Coords points="672.874,698.394 1562.48,704.079 1562.17,744.607 672.57,738.922" />
+            <Word id="r2_l8_w1">
+               <Coords points="721,694 1532,694 1532,746 721,746" />
+               <TextEquiv conf="0.866624">
+                  <Unicode>M0MATB11111115777111</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.934736">
+               <Unicode>M0MATB11111115777111</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r2_l9">
+            <Property key="entity" value="geburtsdatum" />
+            <Coords points="362.81,737.63 670.513,739.596 670.209,780.125 362.506,778.158" />
+            <Word id="r2_l9_w1">
+               <Coords points="375,735 656,735 656,779 375,779" />
+               <TextEquiv conf="1">
+                  <Unicode>011/9/11/9112</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.985813">
+               <Unicode>011/9/11/9112</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r2_l10">
+            <Property key="entity" value="staatsangehoerigkeit" />
+            <Coords points="866.086,739.472 1560.81,743.911 1560.52,783.066 865.791,778.627" />
+            <Word id="r2_l10_w1">
+               <Coords points="873,734 915,734 915,781 873,781" />
+               <TextEquiv conf="0.989187">
+                  <Unicode>AM</Unicode>
+               </TextEquiv>
+            </Word>
+            <Word id="r2_l10_w2">
+               <Coords points="957,736 1521,736 1521,783 957,783" />
+               <TextEquiv conf="0.680794">
+                  <Unicode>ERelM111711111</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.927771">
+               <Unicode>AM ERelM111711111</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r2_l11">
+            <Property key="entity" value="geburtsland" />
+            <Coords points="363.884,776.793 825.438,779.743 825.144,818.897 363.589,815.948" />
+            <Word id="r2_l11_w1">
+               <Coords points="378,770 796,770 796,821 378,821" />
+               <TextEquiv conf="0.185701">
+                  <Unicode>Ust1111777</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.930744">
+               <Unicode>Ust1111777</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r2_l12">
+            <Property key="entity" value="geburtsort" />
+            <Coords points="943.049,780.494 1561.87,784.449 1561.58,822.916 942.76,818.962" />
+            <Word id="r2_l12_w1">
+               <Coords points="944,777 1523,777 1523,824 944,824" />
+               <TextEquiv conf="0.967779">
+                  <Unicode>+49471116111111</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.941604">
+               <Unicode>+49471116111111</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r2_l13">
+            <Property key="entity" value="telefon" />
+            <Coords points="364.273,815.952 978.311,819.876 978.027,857.657 363.989,853.733" />
+            <Word id="r2_l13_w1">
+               <Coords points="373,810 440,810 440,858 373,858" />
+               <TextEquiv conf="1">
+                  <Unicode>011/</Unicode>
+               </TextEquiv>
+            </Word>
+            <Word id="r2_l13_w2">
+               <Coords points="452,810 903,810 903,858 452,858" />
+               <TextEquiv conf="1">
+                  <Unicode>9131717121313111577</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.977636">
+               <Unicode>011/ 9131717121313111577</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r2_l14">
+            <Property key="entity" value="fax" />
+            <Coords points="1056.95,820.379 1560.21,823.595 1559.94,860.002 1056.67,856.786" />
+            <Word id="r2_l14_w1">
+               <Coords points="1069,815 1196,815 1196,861 1069,861" />
+               <TextEquiv conf="1">
+                  <Unicode>011013</Unicode>
+               </TextEquiv>
+            </Word>
+            <Word id="r2_l14_w2">
+               <Coords points="1224,817 1523,817 1523,862 1224,862" />
+               <TextEquiv conf="1">
+                  <Unicode>4571112261</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.973003">
+               <Unicode>011013 4571112261</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r2_l15">
+            <Property key="entity" value="email" />
+            <Coords points="363.984,854.42 1406.07,861.079 1405.79,898.173 363.705,891.514" />
+            <Word id="r2_l15_w1">
+               <Coords points="372,852 882,852 882,894 372,894" />
+               <TextEquiv conf="0.904982">
+                  <Unicode>F4M1041901</Unicode>
+               </TextEquiv>
+            </Word>
+            <Word id="r2_l15_w2">
+               <Coords points="936,855 1366,855 1366,897 936,897" />
+               <TextEquiv conf="0.973908">
+                  <Unicode>177771117117</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.90448">
+               <Unicode>F4M1041901 177771117117</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r2_l16">
+            <Property key="entity" value="nachname" />
+            <Coords points="363.705,891.514 1561.01,899.165 1560.71,939.007 363.406,931.355" />
+            <Word id="r2_l16_w1">
+               <Coords points="365,888 612,888 612,940 365,940" />
+               <TextEquiv conf="0.673566">
+                  <Unicode>WAULMMAR</Unicode>
+               </TextEquiv>
+            </Word>
+            <Word id="r2_l16_w2">
+               <Coords points="705,890 958,890 958,942 705,942" />
+               <TextEquiv conf="0.323428">
+                  <Unicode>IASTHAER</Unicode>
+               </TextEquiv>
+            </Word>
+            <Word id="r2_l16_w3">
+               <Coords points="1018,891 1105,891 1105,943 1018,943" />
+               <TextEquiv conf="0.921091">
+                  <Unicode>LLl</Unicode>
+               </TextEquiv>
+            </Word>
+            <Word id="r2_l16_w4">
+               <Coords points="1138,893 1491,893 1491,945 1138,945" />
+               <TextEquiv conf="0.999998">
+                  <Unicode>111161117</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.872446">
+               <Unicode>WAULMMAR IASTHAER LLl 111161117</Unicode>
+            </TextEquiv>
+         </TextLine>
+      </TextRegion>
+      <TextRegion id="r3">
+         <Property key="entity" value="versicherte_person" />
+         <Coords points="181.447,939.81 1596.88,948.855 1591.11,1717.52 175.672,1708.48" />
+         <TextLine id="r3_l1">
+            <Property key="entity" value="wie_versicherungsnehmer" />
+            <Coords points="510.244,955.65 541.698,955.851 541.461,987.45 510.007,987.249" />
+            <Word id="r3_l1_w1">
+               <Coords points="517,947 522,947 522,989 517,989" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999924">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l2">
+            <Property key="entity" value="zweite_person" />
+            <Coords points="759.142,957.241 789.228,957.433 789.001,987.658 758.915,987.466" />
+            <Word id="r3_l2_w1">
+               <Coords points="759,952 764,952 764,990 759,990" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999978">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l3">
+            <Property key="entity" value="frau" />
+            <Coords points="355.41,994.504 383.445,994.684 383.218,1024.91 355.183,1024.73" />
+            <Word id="r3_l3_w1">
+               <Coords points="355,987 361,987 361,1029 355,1029" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999972">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l4">
+            <Property key="entity" value="herr" />
+            <Coords points="509.945,995.492 541.399,995.693 541.177,1025.23 509.723,1025.03" />
+            <Word id="r3_l4_w1">
+               <Coords points="515,992 519,992 519,1025 515,1025" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999946">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l5">
+            <Property key="entity" value="vorname" />
+            <Coords points="361.995,1028.21 1557.93,1035.85 1557.63,1075.69 361.695,1068.05" />
+            <TextEquiv conf="0.86349">
+               <Unicode />
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l6">
+            <Property key="entity" value="nachname" />
+            <Coords points="361.012,1068.04 1558.32,1075.7 1558.01,1116.91 360.702,1109.26" />
+            <Word id="r3_l6_w1">
+               <Coords points="548,1067 1522,1067 1522,1119 548,1119" />
+               <TextEquiv conf="0.581977">
+                  <Unicode>4111111127117</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.857737">
+               <Unicode>4111111127117</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l7">
+            <Property key="entity" value="strasse" />
+            <Coords points="362.059,1110.64 1286.54,1116.55 1286.25,1154.33 361.775,1148.42" />
+            <Word id="r3_l7_w1">
+               <Coords points="390,1109 1246,1109 1246,1157 390,1157" />
+               <TextEquiv conf="0.999234">
+                  <Unicode>141177111171111</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.922796">
+               <Unicode>141177111171111</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l8">
+            <Property key="entity" value="hausnummer" />
+            <Coords points="1404.15,1117.3 1558,1118.29 1557.71,1156.07 1403.86,1155.08" />
+            <Word id="r3_l8_w1">
+               <Coords points="1405,1114 1525,1114 1525,1161 1405,1161" />
+               <TextEquiv conf="1">
+                  <Unicode>111</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.984742">
+               <Unicode>111</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l9">
+            <Property key="entity" value="plz" />
+            <Coords points="361.775,1148.42 552.551,1149.64 552.277,1186.05 361.502,1184.83" />
+            <Word id="r3_l9_w1">
+               <Coords points="527,1148 551,1148 551,1186 527,1186" />
+               <TextEquiv conf="0.999999">
+                  <Unicode>P1a</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.972021">
+               <Unicode>P1a</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l10">
+            <Property key="entity" value="wohnort" />
+            <Coords points="668.794,1150.39 1557.71,1156.07 1557.44,1192.47 668.521,1186.79" />
+            <Word id="r3_l10_w1">
+               <Coords points="664,1149 1525,1149 1525,1195 664,1195" />
+               <TextEquiv conf="0.374868">
+                  <Unicode>Tl11171711111771777</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.842689">
+               <Unicode>Tl11171711111771777</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l11">
+            <Property key="entity" value="geburtsdatum" />
+            <Coords points="361.481,1187.58 666.449,1189.53 666.17,1226.62 361.202,1224.67" />
+            <Word id="r3_l11_w1">
+               <Coords points="370,1183 653,1183 653,1226 370,1226" />
+               <TextEquiv conf="0.999996">
+                  <Unicode>7/7/M/1/5191918</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.946625">
+               <Unicode>7/7/M/1/5191918</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l12">
+            <Property key="entity" value="staatsangehoerigkeit" />
+            <Coords points="862.715,1188.03 1557.44,1192.47 1557.15,1231.63 862.421,1227.19" />
+            <Word id="r3_l12_w1">
+               <Coords points="864,1184 1522,1184 1522,1234 864,1234" />
+               <TextEquiv conf="0.982194">
+                  <Unicode>+411111111111</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.941687">
+               <Unicode>+411111111111</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l13">
+            <Property key="entity" value="geburtsland" />
+            <Coords points="358.472,1223.97 1558.51,1231.64 1558.22,1270.1 358.183,1262.44" />
+            <Word id="r3_l13_w1">
+               <Coords points="545,1220 1555,1220 1555,1270 545,1270" />
+               <TextEquiv conf="0.872581">
+                  <Unicode>111177116411111111111117</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.919378">
+               <Unicode>111177116411111111111117</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l14">
+            <Property key="entity" value="telefon" />
+            <Coords points="358.173,1263.81 975.63,1267.76 975.336,1306.91 357.879,1302.96" />
+            <Word id="r3_l14_w1">
+               <Coords points="665,1264 939,1264 939,1315 665,1315" />
+               <TextEquiv conf="1">
+                  <Unicode>1121111</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.943173">
+               <Unicode>1121111</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l15">
+            <Property key="entity" value="fax" />
+            <Coords points="1054.28,1266.88 1558.22,1270.1 1557.94,1307.88 1053.99,1304.66" />
+            <Word id="r3_l15_w1">
+               <Coords points="1055,1265 1523,1265 1523,1316 1055,1316" />
+               <TextEquiv conf="0.972553">
+                  <Unicode>+11111111111</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.964893">
+               <Unicode>+11111111111</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l16">
+            <Property key="entity" value="single" />
+            <Coords points="359.236,1304.35 396.844,1304.59 396.571,1340.99 358.963,1340.75" />
+            <Word id="r3_l16_w1">
+               <Coords points="374,1304 380,1304 380,1352 374,1352" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999872">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l17">
+            <Property key="entity" value="verheirated" />
+            <Coords points="745.569,1307.5 781.81,1307.73 781.526,1345.51 745.285,1345.28" />
+            <Word id="r3_l17_w1">
+               <Coords points="746,1307 751,1307 751,1354 746,1354" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999965">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l18">
+            <Property key="entity" value="sonstiges" />
+            <Coords points="1090.23,1304.9 1129.21,1305.15 1128.91,1344.3 1089.94,1344.05" />
+            <Word id="r3_l18_w1">
+               <Coords points="1093,1303 1100,1303 1100,1358 1093,1358" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999957">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l19">
+            <Property key="entity" value="kinder_0" />
+            <Coords points="359.995,1385.41 396.235,1385.64 395.962,1422.05 359.721,1421.82" />
+            <Word id="r3_l19_w1">
+               <Coords points="394,1381 400,1381 400,1424 394,1424" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.988082">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l20">
+            <Property key="entity" value="kinder_1" />
+            <Coords points="474.876,1385.46 509.749,1385.68 509.485,1420.72 474.612,1420.49" />
+            <TextEquiv conf="0.993038">
+               <Unicode />
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l21">
+            <Property key="entity" value="kinder_2" />
+            <Coords points="591.134,1384.14 627.375,1384.37 627.086,1422.84 590.845,1422.61" />
+            <Word id="r3_l21_w1">
+               <Coords points="591,1381 603,1381 603,1427 591,1427" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.997491">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l22">
+            <Property key="entity" value="kinder_3" />
+            <Coords points="706.015,1384.19 743.623,1384.43 743.339,1422.21 705.731,1421.97" />
+            <Word id="r3_l22_w1">
+               <Coords points="702,1379 707,1379 707,1426 702,1426" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999983">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l23">
+            <Property key="entity" value="kinder_4" />
+            <Coords points="822.259,1384.93 858.499,1385.16 858.215,1422.94 821.975,1422.71" />
+            <Word id="r3_l23_w1">
+               <Coords points="826,1378 830,1378 830,1416 826,1416" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;checked/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999822">
+               <Unicode>&lt;checked/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l24">
+            <Property key="entity" value="beruf" />
+            <Coords points="356.991,1421.11 1555.66,1428.77 1555.4,1463.81 356.728,1456.15" />
+            <Word id="r3_l24_w1">
+               <Coords points="389,1423 1522,1423 1522,1471 389,1471" />
+               <TextEquiv conf="0.450368">
+                  <Unicode>l1111111111116</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.883624">
+               <Unicode>l1111111111116</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l25">
+            <Property key="entity" value="selbstst\u00e4ndiger" />
+            <Coords points="357.775,1498.75 394.016,1498.98 393.743,1535.38 357.502,1535.15" />
+            <Word id="r3_l25_w1">
+               <Coords points="354,1500 366,1500 366,1547 354,1547" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999704">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l26">
+            <Property key="entity" value="beamter" />
+            <Coords points="629.222,1502.54 662.728,1502.76 662.47,1537.1 628.964,1536.89" />
+            <Word id="r3_l26_w1">
+               <Coords points="661,1505 663,1505 663,1523 661,1523" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999956">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l27">
+            <Property key="entity" value="angestellter" />
+            <Coords points="783.763,1502.84 818.636,1503.07 818.362,1539.47 783.489,1539.25" />
+            <Word id="r3_l27_w1">
+               <Coords points="778,1498 785,1498 785,1546 778,1546" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999943">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l28">
+            <Property key="entity" value="arbeiter" />
+            <Coords points="976.59,1504.07 1010.1,1504.29 1009.83,1539.32 976.327,1539.11" />
+            <Word id="r3_l28_w1">
+               <Coords points="980,1500 985,1500 985,1538 980,1538" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;checked/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999923">
+               <Unicode>&lt;checked/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l29">
+            <Property key="entity" value="hausmann" />
+            <Coords points="1247.37,1505.12 1282.25,1505.34 1281.98,1540.37 1247.11,1540.15" />
+            <Word id="r3_l29_w1">
+               <Coords points="1242,1503 1247,1503 1247,1548 1242,1548" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.998854">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l30">
+            <Property key="entity" value="student" />
+            <Coords points="358.828,1540.66 393.701,1540.88 393.443,1575.23 358.57,1575" />
+            <Word id="r3_l30_w1">
+               <Coords points="366,1540 371,1540 371,1584 366,1584" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999937">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l31">
+            <Property key="entity" value="schueler" />
+            <Coords points="629.607,1542.39 665.164,1542.61 664.895,1578.33 629.338,1578.11" />
+            <Word id="r3_l31_w1">
+               <Coords points="636,1548 641,1548 641,1589 636,1589" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999629">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l32">
+            <Property key="entity" value="auszubildender" />
+            <Coords points="783.463,1542.68 818.336,1542.91 818.073,1577.94 783.2,1577.72" />
+            <Word id="r3_l32_w1">
+               <Coords points="780,1537 786,1537 786,1587 780,1587" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999949">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l33">
+            <Property key="entity" value="arbeitslos" />
+            <Coords points="976.311,1541.17 1012.55,1541.4 1012.27,1579.18 976.027,1578.95" />
+            <Word id="r3_l33_w1">
+               <Coords points="979,1539 985,1539 985,1588 979,1588" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999974">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l34">
+            <Property key="entity" value="sonstiges" />
+            <Coords points="1245.73,1541.52 1283.34,1541.76 1283.05,1580.91 1245.44,1580.67" />
+            <Word id="r3_l34_w1">
+               <Coords points="1247,1536 1254,1536 1254,1591 1247,1591" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999982">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l35">
+            <Property key="entity" value="studium" />
+            <Coords points="358.255,1616.91 391.761,1617.12 391.492,1652.84 357.987,1652.63" />
+            <Word id="r3_l35_w1">
+               <Coords points="383,1612 389,1612 389,1662 383,1662" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999692">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l36">
+            <Property key="entity" value="hochschulreife" />
+            <Coords points="782.88,1620.31 819.121,1620.54 818.868,1654.2 782.627,1653.97" />
+            <Word id="r3_l36_w1">
+               <Coords points="795,1615 799,1615 799,1651 795,1651" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;checked/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999923">
+               <Unicode>&lt;checked/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l37">
+            <Property key="entity" value="meisterpruefung" />
+            <Coords points="1247.86,1621.9 1282.74,1622.13 1282.47,1657.16 1247.6,1656.94" />
+            <Word id="r3_l37_w1">
+               <Coords points="1250,1615 1256,1615 1256,1666 1250,1666" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999977">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l38">
+            <Property key="entity" value="berufsausbildung" />
+            <Coords points="357.961,1656.06 391.467,1656.27 391.209,1690.62 357.703,1690.41" />
+            <Word id="r3_l38_w1">
+               <Coords points="363,1658 369,1658 369,1701 363,1701" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999899">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l39">
+            <Property key="entity" value="schulabschluss" />
+            <Coords points="782.596,1658.09 816.785,1658.31 816.522,1693.34 782.333,1693.12" />
+            <Word id="r3_l39_w1">
+               <Coords points="783,1656 789,1656 789,1704 783,1704" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999978">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r3_l40">
+            <Property key="entity" value="ohne_abschluss" />
+            <Coords points="1247.56,1661.75 1280.39,1661.96 1280.13,1696.3 1247.31,1696.09" />
+            <Word id="r3_l40_w1">
+               <Coords points="1243,1668 1248,1668 1248,1707 1243,1707" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999723">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+      </TextRegion>
+      <TextRegion id="r4">
+         <Property key="entity" value="versicherungsumfang" />
+         <Coords points="178.397,1709.87 1591.09,1718.9 1586.52,2327.51 173.824,2318.48" />
+         <TextLine id="r4_l1">
+            <Property key="entity" value="risiko_versicherung_t1" />
+            <Coords points="207.418,1760.89 234.085,1761.06 233.863,1790.6 207.196,1790.43" />
+            <Word id="r4_l1_w1">
+               <Coords points="209,1757 213,1757 213,1790 209,1790" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999982">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r4_l2">
+            <Property key="entity" value="risiko_versicherung_tp1" />
+            <Coords points="462.479,1761.15 489.147,1761.32 488.925,1790.85 462.258,1790.68" />
+            <Word id="r4_l2_w1">
+               <Coords points="466,1760 469,1760 469,1789 466,1789" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;checked/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999932">
+               <Unicode>&lt;checked/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r4_l3">
+            <Property key="entity" value="risiko_versicherung_t3" />
+            <Coords points="772.928,1761.76 802.33,1761.94 802.098,1792.86 772.695,1792.67" />
+            <Word id="r4_l3_w1">
+               <Coords points="774,1760 779,1760 779,1793 774,1793" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999984">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r4_l4">
+            <Property key="entity" value="risiko_versicherung_t4" />
+            <Coords points="207.139,1797.98 232.439,1798.15 232.202,1829.74 206.902,1829.58" />
+            <Word id="r4_l4_w1">
+               <Coords points="214,1796 218,1796 218,1830 214,1830" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.99994">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r4_l5">
+            <Property key="entity" value="zinssatz" />
+            <Coords points="625.625,1799.28 705.628,1799.8 705.313,1841.7 625.31,1841.19" />
+            <Word id="r4_l5_w1">
+               <Coords points="628,1788 636,1788 636,1850 628,1850" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999961">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r4_l6">
+            <Property key="entity" value="tilgungssatz" />
+            <Coords points="845.109,1802.06 922.377,1802.55 922.073,1843.08 844.805,1842.59" />
+            <Word id="r4_l6_w1">
+               <Coords points="849,1795 856,1795 856,1851 849,1851" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999938">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r4_l7">
+            <Property key="entity" value="tilgungsfreie_anfangsjahre" />
+            <Coords points="1322.38,1806.48 1358.62,1806.72 1358.35,1842.44 1322.11,1842.2" />
+            <Word id="r4_l7_w1">
+               <Coords points="1324,1801 1330,1801 1330,1851 1324,1851" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999982">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r4_l8">
+            <Property key="entity" value="plus_tarif" />
+            <Coords points="205.457,1839.88 234.859,1840.07 234.658,1866.86 205.255,1866.67" />
+            <Word id="r4_l8_w1">
+               <Coords points="207,1836 212,1836 212,1868 207,1868" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999974">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r4_l9">
+            <Property key="entity" value="exklusiv_tarif" />
+            <Coords points="460.529,1838.76 490.615,1838.95 490.383,1869.86 460.296,1869.67" />
+            <Word id="r4_l9_w1">
+               <Coords points="462,1836 467,1836 467,1870 462,1870" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999977">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r4_l10">
+            <Property key="entity" value="kollektiv_tarif" />
+            <Coords points="846.152,1845.35 870.084,1845.5 869.904,1869.54 845.971,1869.39" />
+            <Word id="r4_l10_w1">
+               <Coords points="848,1841 852,1841 852,1872 848,1872" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999943">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r4_l11">
+            <Property key="entity" value="nichtraucher_12_monate" />
+            <Coords points="207.892,1879.74 230.457,1879.88 230.261,1905.98 207.696,1905.84" />
+            <Word id="r4_l11_w1">
+               <Coords points="209,1875 213,1875 213,1906 209,1906" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999973">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r4_l12">
+            <Property key="entity" value="nichtraucher_10_jahre" />
+            <Coords points="625.021,1879.65 653.056,1879.83 652.829,1910.06 624.794,1909.88" />
+            <Word id="r4_l12_w1">
+               <Coords points="627,1874 632,1874 632,1910 627,1910" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999964">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r4_l13">
+            <Property key="entity" value="versicherungsbeginn" />
+            <Coords points="433.268,1917.59 738.919,1919.54 738.651,1955.26 432.999,1953.31" />
+            <Word id="r4_l13_w1">
+               <Coords points="445,1915 715,1915 715,1956 445,1956" />
+               <TextEquiv conf="1">
+                  <Unicode>0/1/01/1191913</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.985435">
+               <Unicode>0/1/01/1191913</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r4_l14">
+            <Property key="entity" value="zahlungsweise" />
+            <Coords points="934.481,1920.79 1047.31,1921.51 1047.05,1955.86 934.223,1955.13" />
+            <Word id="r4_l14_w1">
+               <Coords points="945,1917 1026,1917 1026,1956 945,1956" />
+               <TextEquiv conf="1">
+                  <Unicode>11/113</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.995476">
+               <Unicode>11/113</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r4_l15">
+            <Property key="entity" value="kollektiv_vertrags_nr" />
+            <Coords points="1321.53,1919.83 1550.6,1921.29 1550.3,1960.45 1321.23,1958.98" />
+            <Word id="r4_l15_w1">
+               <Coords points="1342,1915 1516,1915 1516,1964 1342,1964" />
+               <TextEquiv conf="1">
+                  <Unicode>13/7911</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.985187">
+               <Unicode>13/7911</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r4_l16">
+            <Property key="entity" value="versicherungssumme" />
+            <Coords points="432.979,1956.05 738.63,1958.01 738.362,1993.73 432.71,1991.77" />
+            <Word id="r4_l16_w1">
+               <Coords points="460,1949 669,1949 669,2000 460,2000" />
+               <TextEquiv conf="1">
+                  <Unicode>T11</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.968033">
+               <Unicode>T11</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r4_l17">
+            <Property key="entity" value="versicherungsdauer" />
+            <Coords points="432.684,1995.21 506.533,1995.68 506.275,2030.03 432.426,2029.55" />
+            <Word id="r4_l17_w1">
+               <Coords points="459,1992 464,1992 464,2033 459,2033" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999945">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r4_l18">
+            <Property key="entity" value="endalter" />
+            <Coords points="661.084,1994.61 736.984,1995.09 736.715,2030.81 660.815,2030.33" />
+            <Word id="r4_l18_w1">
+               <Coords points="656,1984 662,1984 662,2032 656,2032" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999984">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r4_l19">
+            <Property key="entity" value="beitragsbefreiung_berufsunfaehigkeit" />
+            <Coords points="202.375,2067.93 236.565,2068.15 236.332,2099.06 202.143,2098.84" />
+            <Word id="r4_l19_w1">
+               <Coords points="209,2065 213,2065 213,2099 209,2099" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999928">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r4_l20">
+            <Property key="entity" value="unfalltod_leistung" />
+            <Coords points="201.87,2135.25 234.691,2135.46 234.459,2166.37 201.637,2166.16" />
+            <Word id="r4_l20_w1">
+               <Coords points="202,2129 207,2129 207,2170 202,2170" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999914">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r4_l21">
+            <Property key="entity" value="unfalltod_einfach" />
+            <Coords points="200.26,2167.52 234.449,2167.74 234.247,2194.53 200.058,2194.31" />
+            <Word id="r4_l21_w1">
+               <Coords points="200,2161 205,2161 205,2198 200,2198" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999976">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r4_l22">
+            <Property key="entity" value="unfalltod_doppelt" />
+            <Coords points="591.405,2167.27 621.491,2167.47 621.269,2197 591.183,2196.81" />
+            <Word id="r4_l22_w1">
+               <Coords points="592,2161 597,2161 597,2202 592,2202" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.99998">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r4_l23">
+            <Property key="entity" value="zahlbeitrag" />
+            <Coords points="660.635,2236.41 930.729,2238.14 930.44,2276.61 660.346,2274.88" />
+            <Word id="r4_l23_w1">
+               <Coords points="656,2222 893,2222 893,2275 656,2275" />
+               <TextEquiv conf="1">
+                  <Unicode>0017</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.972985">
+               <Unicode>0017</Unicode>
+            </TextEquiv>
+         </TextLine>
+      </TextRegion>
+   </Page>
+   <Page imageFilename="image_1.jpg" imageHeight="2400" imageWidth="1697">
+      <TextRegion id="r5">
+         <Property key="entity" value="dynamik" />
+         <Coords points="49.6235,102.749 1443.39,93.0086 1444.19,188.504 50.4202,198.244" />
+         <TextLine id="r5_l1">
+            <Property key="entity" value="dynamik_ja" />
+            <Coords points="248.628,124.03 275.275,123.844 275.527,154.077 248.881,154.263" />
+            <Word id="r5_l1_w1">
+               <Coords points="248,119 252,119 252,156 248,156" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;checked/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999315">
+               <Unicode>&lt;checked/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+      </TextRegion>
+      <TextRegion id="r6">
+         <Property key="entity" value="bezugsrecht" />
+         <Coords points="49.0538,198.254 1442.82,188.513 1444.36,373.335 50.5959,383.075" />
+         <TextLine id="r6_l1">
+            <Property key="entity" value="name" />
+            <Coords points="248.638,288.939 1404.64,280.86 1404.96,319.329 248.959,327.408" />
+            <Word id="r6_l1_w1">
+               <Coords points="244,277 1301,277 1301,333 244,333" />
+               <TextEquiv conf="0.816415">
+                  <Unicode>PAAHAERRIIMEIEEEEEEEEEEELE</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.878168">
+               <Unicode>PAAHAERRIIMEIEEEEEEEEEEELE</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r6_l2">
+            <Property key="entity" value="geburtsdatum" />
+            <Coords points="247.587,326.735 557.768,324.568 558.089,363.037 247.908,365.204" />
+            <Word id="r6_l2_w1">
+               <Coords points="249,321 543,321 543,367 249,367" />
+               <TextEquiv conf="1">
+                  <Unicode>17/0411/1/9913</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.978923">
+               <Unicode>17/0411/1/9913</Unicode>
+            </TextEquiv>
+         </TextLine>
+      </TextRegion>
+      <TextRegion id="r7">
+         <Property key="entity" value="gesundheitserkl\u00e4rung" />
+         <Coords points="48.5405,382.407 1445.04,372.648 1461.31,2322.5 64.8095,2332.26" />
+         <TextLine id="r7_l1">
+            <Property key="entity" value="behandlung_herz_nein" />
+            <Coords points="1295.61,888.323 1316.1,888.179 1316.27,908.101 1295.77,908.244" />
+            <Word id="r7_l1_w1">
+               <Coords points="1297,885 1300,885 1300,910 1297,910" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;checked/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.997922">
+               <Unicode>&lt;checked/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l2">
+            <Property key="entity" value="behandlung_herz_ja" />
+            <Coords points="1368.71,887.13 1389.2,886.986 1389.38,908.282 1368.88,908.425" />
+            <Word id="r7_l2_w1">
+               <Coords points="1371,884 1374,884 1374,914 1371,914" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999961">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l3">
+            <Property key="entity" value="behandlung_lunge_nein" />
+            <Coords points="1295.34,939.175 1315.84,939.031 1316.02,960.327 1295.52,960.47" />
+            <Word id="r7_l3_w1">
+               <Coords points="1296,937 1300,937 1300,963 1296,963" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;checked/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.998575">
+               <Unicode>&lt;checked/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l4">
+            <Property key="entity" value="behandlung_lunge_ja" />
+            <Coords points="1368.45,937.289 1390.3,937.137 1390.48,958.432 1368.62,958.585" />
+            <Word id="r7_l4_w1">
+               <Coords points="1371,933 1375,933 1375,963 1371,963" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999958">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l5">
+            <Property key="entity" value="behandlung_magen_nein" />
+            <Coords points="1297.13,989.32 1316.26,989.186 1316.43,1009.79 1297.3,1009.92" />
+            <Word id="r7_l5_w1">
+               <Coords points="1299,988 1302,988 1302,1014 1299,1014" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;checked/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.998164">
+               <Unicode>&lt;checked/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l6">
+            <Property key="entity" value="behandlung_magen_ja" />
+            <Coords points="1368.88,988.819 1390.05,988.671 1390.22,1008.59 1369.04,1008.74" />
+            <Word id="r7_l6_w1">
+               <Coords points="1372,985 1375,985 1375,1010 1372,1010" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;checked/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999882">
+               <Unicode>&lt;checked/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l7">
+            <Property key="entity" value="behandlung_niere_nein" />
+            <Coords points="1297.56,1040.84 1316.69,1040.71 1316.85,1059.95 1297.72,1060.08" />
+            <Word id="r7_l7_w1">
+               <Coords points="1299,1038 1302,1038 1302,1064 1299,1064" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999951">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l8">
+            <Property key="entity" value="behandlung_niere_ja" />
+            <Coords points="1369.99,1041.03 1390.49,1040.88 1390.64,1059.43 1370.15,1059.57" />
+            <Word id="r7_l8_w1">
+               <Coords points="1371,1041 1374,1041 1374,1064 1371,1064" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999967">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l9">
+            <Property key="entity" value="behandlung_stoffwechsel_nein" />
+            <Coords points="1297.3,1091 1316.43,1090.87 1316.6,1111.48 1297.47,1111.61" />
+            <Word id="r7_l9_w1">
+               <Coords points="1296,1093 1298,1093 1298,1115 1296,1115" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;checked/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999036">
+               <Unicode>&lt;checked/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l10">
+            <Property key="entity" value="behandlung_stoffwechsel_ja" />
+            <Coords points="1370.4,1089.81 1390.22,1089.67 1390.39,1110.96 1370.58,1111.1" />
+            <Word id="r7_l10_w1">
+               <Coords points="1372,1086 1375,1086 1375,1116 1372,1116" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999969">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l11">
+            <Property key="entity" value="behandlung_blut_nein" />
+            <Coords points="1296.17,1119.19 1317.34,1119.04 1317.5,1138.28 1296.33,1138.43" />
+            <Word id="r7_l11_w1">
+               <Coords points="1297,1120 1300,1120 1300,1141 1297,1141" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;checked/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.997774">
+               <Unicode>&lt;checked/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l12">
+            <Property key="entity" value="behandlung_blut_ja" />
+            <Coords points="1370.63,1117.97 1391.81,1117.83 1391.98,1138.44 1370.8,1138.59" />
+            <Word id="r7_l12_w1">
+               <Coords points="1372,1117 1375,1117 1375,1142 1372,1142" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999984">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l13">
+            <Property key="entity" value="behandlung_infektion_nein" />
+            <Coords points="1297.75,1145.28 1316.88,1145.14 1317.04,1164.38 1297.91,1164.52" />
+            <Word id="r7_l13_w1">
+               <Coords points="1299,1144 1302,1144 1302,1168 1299,1168" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;checked/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.99961">
+               <Unicode>&lt;checked/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l14">
+            <Property key="entity" value="behandlung_infektion_ja" />
+            <Coords points="1370.87,1146.14 1390,1146.01 1390.15,1164.56 1371.02,1164.7" />
+            <Word id="r7_l14_w1">
+               <Coords points="1372,1147 1375,1147 1375,1170 1372,1170" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999956">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l15">
+            <Property key="entity" value="behandlung_psyche_nein" />
+            <Coords points="1298.66,1172.76 1315.74,1172.64 1315.9,1191.88 1298.82,1192" />
+            <Word id="r7_l15_w1">
+               <Coords points="1299,1168 1303,1168 1303,1196 1299,1196" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999979">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l16">
+            <Property key="entity" value="behandlung_psyche_ja" />
+            <Coords points="1370.41,1172.26 1390.9,1172.11 1391.08,1192.73 1370.58,1192.87" />
+            <Word id="r7_l16_w1">
+               <Coords points="1371,1169 1375,1169 1375,1195 1371,1195" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999979">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l17">
+            <Property key="entity" value="behandlung_gehirn_nein" />
+            <Coords points="1297.72,1224.3 1317.54,1224.16 1317.7,1243.4 1297.88,1243.54" />
+            <Word id="r7_l17_w1">
+               <Coords points="1299,1224 1302,1224 1302,1248 1299,1248" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.99998">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l18">
+            <Property key="entity" value="behandlung_gehirn_ja" />
+            <Coords points="1371.52,1223.78 1391.33,1223.64 1391.49,1242.88 1371.68,1243.02" />
+            <Word id="r7_l18_w1">
+               <Coords points="1372,1221 1376,1221 1376,1247 1372,1247" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999981">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l20">
+            <Property key="entity" value="behandlung_1_nein" />
+            <Coords points="691.314,1508.18 711.81,1508.04 711.976,1527.96 691.48,1528.11" />
+            <Word id="r7_l20_w1">
+               <Coords points="694,1505 697,1505 697,1529 694,1529" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;checked/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999949">
+               <Unicode>&lt;checked/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l21">
+            <Property key="entity" value="behandlung_1_ja" />
+            <Coords points="778.076,1506.89 797.207,1506.75 797.379,1527.37 778.248,1527.5" />
+            <Word id="r7_l21_w1">
+               <Coords points="780,1507 783,1507 783,1533 780,1533" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999943">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l22">
+            <Property key="entity" value="behandlung_1_folgen" />
+            <Coords points="898.265,1499.17 1412.04,1495.58 1412.28,1524.44 898.506,1528.03" />
+            <Word id="r7_l22_w1">
+               <Coords points="899,1506 903,1506 903,1538 899,1538" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.99979">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l24">
+            <Property key="entity" value="behandlung_2_nein" />
+            <Coords points="695.658,1701.22 714.788,1701.09 714.954,1721.02 695.824,1721.15" />
+            <Word id="r7_l24_w1">
+               <Coords points="693,1699 696,1699 696,1724 693,1724" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;checked/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999968">
+               <Unicode>&lt;checked/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l25">
+            <Property key="entity" value="behandlung_2_ja" />
+            <Coords points="779.716,1703.38 797.48,1703.26 797.612,1719.07 779.848,1719.19" />
+            <Word id="r7_l25_w1">
+               <Coords points="779,1700 782,1700 782,1721 779,1721" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999968">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l26">
+            <Property key="entity" value="behandlung_2_folgen" />
+            <Coords points="902.609,1692.22 1416.39,1688.63 1416.63,1717.49 902.85,1721.08" />
+            <Word id="r7_l26_w1">
+               <Coords points="911,1675 923,1675 923,1724 911,1724" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999751">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l28">
+            <Property key="entity" value="behandlung_3_nein" />
+            <Coords points="696.596,1895.67 717.093,1895.52 717.276,1917.51 696.78,1917.66" />
+            <Word id="r7_l28_w1">
+               <Coords points="696,1890 700,1890 700,1921 696,1921" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999955">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l29">
+            <Property key="entity" value="behandlung_3_ja" />
+            <Coords points="780.632,1895.08 801.812,1894.93 801.995,1916.92 780.815,1917.07" />
+            <Word id="r7_l29_w1">
+               <Coords points="782,1893 785,1893 785,1920 782,1920" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999892">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l30">
+            <Property key="entity" value="behandlung_3_folgen" />
+            <Coords points="903.548,1886.67 1416.64,1883.08 1416.91,1914.68 903.812,1918.27" />
+            <Word id="r7_l30_w1">
+               <Coords points="913,1874 920,1874 920,1931 913,1931" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999958">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l31">
+            <Property key="entity" value="beschwerden_nein" />
+            <Coords points="1299.7,1951.23 1322.24,1951.07 1322.43,1974.44 1299.89,1974.59" />
+            <Word id="r7_l31_w1">
+               <Coords points="1306,1947 1310,1947 1310,1978 1306,1978" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999968">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l32">
+            <Property key="entity" value="beschwerden_ja" />
+            <Coords points="1374.17,1951.39 1394.67,1951.25 1394.85,1973.24 1374.36,1973.38" />
+            <Word id="r7_l32_w1">
+               <Coords points="1376,1948 1379,1948 1379,1978 1376,1978" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999977">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l34">
+            <Property key="entity" value="beschwerden_folgen_nein" />
+            <Coords points="699.772,2276.29 720.268,2276.15 720.429,2295.39 699.933,2295.53" />
+            <Word id="r7_l34_w1">
+               <Coords points="701,2272 705,2272 705,2297 701,2297" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999977">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l35">
+            <Property key="entity" value="beschwerden_folgen_nein" />
+            <Coords points="784.497,2276.39 804.993,2276.25 805.148,2294.8 784.652,2294.94" />
+            <Word id="r7_l35_w1">
+               <Coords points="785,2273 788,2273 788,2296 785,2296" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999956">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l36">
+            <Property key="entity" value="beschwerden_folgen" />
+            <Coords points="905.346,2265.93 1419.13,2262.34 1419.39,2293.94 905.61,2297.53" />
+            <Word id="r7_l36_w1">
+               <Coords points="914,2250 921,2250 921,2304 914,2304" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999969">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l37">
+            <Property key="entity" value="behandlung_1_frage" />
+            <Coords points="272.469,1343.46 346.256,1342.95 346.491,1371.12 272.704,1371.63" />
+            <Word id="r7_l37_w1">
+               <Coords points="277,1352 281,1352 281,1379 277,1379" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.997169">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l38">
+            <Property key="entity" value="behandlung_2_frage" />
+            <Coords points="272.03,1536.53 349.234,1536 349.469,1564.16 272.265,1564.7" />
+            <Word id="r7_l38_w1">
+               <Coords points="276,1554 278,1554 278,1568 276,1568" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.999481">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+         <TextLine id="r7_l39">
+            <Property key="entity" value="behandlung_3_frage" />
+            <Coords points="272.303,1733.04 350.873,1732.49 351.091,1758.6 272.521,1759.15" />
+            <Word id="r7_l39_w1">
+               <Coords points="276,1745 278,1745 278,1765 276,1765" />
+               <TextEquiv conf="1">
+                  <Unicode>&lt;empty/&gt;</Unicode>
+               </TextEquiv>
+            </Word>
+            <TextEquiv conf="0.997472">
+               <Unicode>&lt;empty/&gt;</Unicode>
+            </TextEquiv>
+         </TextLine>
+      </TextRegion>
+      <TextRegion id="r7_l19">
+         <Property key="entity" value="behandlung_1_details" />
+         <Property key="detect-text-lines" />
+         <Coords points="694.847,1358.37 1423.84,1353.27 1425.01,1494.12 696.022,1499.21" />
+      </TextRegion>
+      <TextRegion id="r7_l23">
+         <Property key="entity" value="behandlung_2_details" />
+         <Property key="detect-text-lines" />
+         <Coords points="695.09,1551.44 1425.45,1546.34 1426.63,1687.19 696.266,1692.29" />
+      </TextRegion>
+      <TextRegion id="r7_l27">
+         <Property key="entity" value="behandlung_3_details" />
+         <Property key="detect-text-lines" />
+         <Coords points="695.347,1745.89 1428.44,1740.77 1429.63,1882.99 696.533,1888.11" />
+      </TextRegion>
+      <TextRegion id="r7_l33">
+         <Property key="entity" value="beschwerden_details" />
+         <Property key="detect-text-lines" />
+         <Coords points="697.828,2125.15 1430.24,2120.03 1431.41,2260.88 699.003,2266" />
+      </TextRegion>
+   </Page>
+</PcGts>

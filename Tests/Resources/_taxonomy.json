@@ -1,0 +1,414 @@
+{
+  "DocumentTypes": [
+    {
+      "DocumentTypeId": "Omnius.InsuranceForms.LifeInsuranceForm",
+      "Group": "Omnius",
+      "Category": "Insurance Forms",
+      "Name": "Life Insurance Form",
+      "OptionalUniqueIdentifier": "LifeInsuranceForm",
+      "TypeField": {
+        "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.DocumentType",
+        "FieldName": "Document Type"
+      },
+      "Fields": [
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.ContractHeader.r1_l1",
+          "FieldName": "Already insured",
+          "IsMultiValue": false,
+          "Type": 7,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.ContractHeader.r1_l2",
+          "FieldName": "Insurance number",
+          "IsMultiValue": false,
+          "Type": 1,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.ContractHeader.r1_l3",
+          "FieldName": "Agent number",
+          "IsMultiValue": false,
+          "Type": 1,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.Insured1.r2_l3",
+          "FieldName": "Name",
+          "IsMultiValue": false,
+          "Type": 0,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.Insured1.r2_l4",
+          "FieldName": "Surname",
+          "IsMultiValue": false,
+          "Type": 0,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.Insured1.r2_l5",
+          "FieldName": "Street",
+          "IsMultiValue": false,
+          "Type": 0,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.Insured1.r2_l6",
+          "FieldName": "House nr",
+          "IsMultiValue": false,
+          "Type": 1,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.Insured1.r2_l7",
+          "FieldName": "Postal code",
+          "IsMultiValue": false,
+          "Type": 1,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.Insured1.r2_l8",
+          "FieldName": "Place of residence",
+          "IsMultiValue": false,
+          "Type": 0,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.Insured1.r2_l1",
+          "FieldName": "Mrs/Ms",
+          "IsMultiValue": false,
+          "Type": 7,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.Insured1.r2_l2",
+          "FieldName": "Mr",
+          "IsMultiValue": false,
+          "Type": 7,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.Insured1.r2_l9",
+          "FieldName": "Birth date",
+          "IsMultiValue": false,
+          "Type": 2,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.Insured1.r2_l10",
+          "FieldName": "Nationality",
+          "IsMultiValue": false,
+          "Type": 0,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.Insured1.r2_l11",
+          "FieldName": "Country of birth",
+          "IsMultiValue": false,
+          "Type": 0,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.Insured1.r2_l12",
+          "FieldName": "Place of birth",
+          "IsMultiValue": false,
+          "Type": 0,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.Insured1.r2_l13",
+          "FieldName": "Telephone",
+          "IsMultiValue": false,
+          "Type": 0,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.Insured1.r2_l14",
+          "FieldName": "Fax",
+          "IsMultiValue": false,
+          "Type": 0,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.Insured1.r2_l15",
+          "FieldName": "e-mail",
+          "IsMultiValue": false,
+          "Type": 0,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.Insured1.r2_l16",
+          "FieldName": "Current occupation",
+          "IsMultiValue": false,
+          "Type": 0,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.Insured2.r3_l1",
+          "FieldName": "Own insurance",
+          "IsMultiValue": false,
+          "Type": 7,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.Insured2.r3_l2",
+          "FieldName": "Second person",
+          "IsMultiValue": false,
+          "Type": 7,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.Insured2.r3_l3",
+          "FieldName": "Ms/Mrs",
+          "IsMultiValue": false,
+          "Type": 7,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.Insured2.r3_l4",
+          "FieldName": "Mr",
+          "IsMultiValue": false,
+          "Type": 7,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.Insured2.r3_l5",
+          "FieldName": "Name",
+          "IsMultiValue": false,
+          "Type": 0,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.r3_l6",
+          "FieldName": "Surname",
+          "IsMultiValue": false,
+          "Type": 0,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.r3_l7",
+          "FieldName": "Street",
+          "IsMultiValue": false,
+          "Type": 0,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.r3_l8",
+          "FieldName": "House number",
+          "IsMultiValue": false,
+          "Type": 1,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.r3_l9",
+          "FieldName": "Postal code",
+          "IsMultiValue": false,
+          "Type": 1,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.r3_l10",
+          "FieldName": "Place of residence",
+          "IsMultiValue": false,
+          "Type": 0,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.r3_l11",
+          "FieldName": "Birth date",
+          "IsMultiValue": false,
+          "Type": 2,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.r3_l12",
+          "FieldName": "Nationality",
+          "IsMultiValue": false,
+          "Type": 0,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.r3_l13",
+          "FieldName": "Country of birth",
+          "IsMultiValue": false,
+          "Type": 0,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.r3_l14",
+          "FieldName": "Telephone",
+          "IsMultiValue": false,
+          "Type": 0,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.r3_l15",
+          "FieldName": "Fax",
+          "IsMultiValue": false,
+          "Type": 0,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.r3_l16",
+          "FieldName": "Single",
+          "IsMultiValue": false,
+          "Type": 7,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.r3_l17",
+          "FieldName": "Married",
+          "IsMultiValue": false,
+          "Type": 7,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.r3_l18",
+          "FieldName": "Other",
+          "IsMultiValue": false,
+          "Type": 7,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.r3_l19",
+          "FieldName": "0 underaged children",
+          "IsMultiValue": false,
+          "Type": 7,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.r3_l20",
+          "FieldName": "1 underaged children",
+          "IsMultiValue": false,
+          "Type": 7,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.r3_l21",
+          "FieldName": "2 underaged children",
+          "IsMultiValue": false,
+          "Type": 7,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.r3_l22",
+          "FieldName": "3 underaged children",
+          "IsMultiValue": false,
+          "Type": 7,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        },
+        {
+          "FieldId": "Omnius.InsuranceForms.LifeInsuranceForm.Body.r3_l23",
+          "FieldName": "4 underaged children or more",
+          "IsMultiValue": false,
+          "Type": 7,
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": []
+        }
+      ]
+    }
+  ],
+
+
+  "Groups": [
+    {
+      "Name": "Omnius",
+      "Categories": [ "Insurance Forms" ]
+    }
+  ],
+  "SupportedLanguages": [
+    {
+      "Name": "English",
+      "Code": "eng"
+    },
+    {
+      "Name": "Undetermined Language",
+      "Code": "und"
+    }
+  ]
+}
